@@ -10,8 +10,9 @@
 - 📫 How to reach me **mnakhushev1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<p align="left"></p>
 
 <h3 align="left">Tools:</h3>
 
