@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h3 align="center">growing in CI/CD practices</h3>
+
 - 🔭 I’m currently working on [Dockerized Web Application](https://github.com/nakhush/dockerized-web-app)
 - 🌱 I’m currently learning **Groovy**
 - 👨‍💻 All of my projects are available at [https://github.com/nakhush?tab=repositories](https://github.com/nakhush?tab=repositories)
@@ -7,12 +8,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nakh_sh)
 <p align="left"></p>
 <h3 align="left">Tools:</h3>
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <h3 align="left">Script Languages:</h3>
 
