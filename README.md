@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h3 align="center">growing in CI/CD practices</h3>
 
@@ -15,5 +14,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
