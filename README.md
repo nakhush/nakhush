@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h3 align="center">growing in CI/CD practices</h3>
 
-- 🔭 I’m currently working on [Dockerized Web Application](https://github.com/nakhush/dockerized-web-app)
+- 🔭 I’m currently working on [flask-app projects](https://github.com/nakhush/flask-app)
 - 🌱 I’m currently learning **Groovy**
 - 👨‍💻 All of my projects are available at [https://github.com/nakhush?tab=repositories](https://github.com/nakhush?tab=repositories)
 - 📫 How to reach me **mnakhushev1@gmail.com**
