@@ -2,7 +2,7 @@
 <h3 align="center">growing in CI/CD practices</h3>
 
 - 🔭 I’m currently working on [flask-app projects](https://github.com/nakhush/flask-app)
-- 🌱 I’m currently learning **Groovy**
+- 🌱 I’m currently learning **K8s**
 - 👨‍💻 All of my projects are available at [https://github.com/nakhush?tab=repositories](https://github.com/nakhush?tab=repositories)
 - 📫 How to reach me **mnakhushev1@gmail.com**
 
@@ -15,6 +15,11 @@
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/ansible/latest/index.html)
 [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+<h3 align="left">Cloud:</h3>
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](aws.amazon.com)
+
 <h3 align="left">Script Languages:</h3>
 
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
